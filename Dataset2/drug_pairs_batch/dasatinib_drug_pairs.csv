@@ -1,0 +1,233 @@
+Dasatinib_D_ID,Drug_Victim,Victim_D_ID
+D0428,Bifidobacterium longum infantis,D1749
+D0428,Lactobacillus acidophilus,D1827
+D0428,Anthrax vaccine,D0089
+D0428,Bacillus calmette-guerin substrain tice live antigen,D1744
+D0428,Clostridium tetani toxoid antigen (formaldehyde inactivated),D0366
+D0428,Hepatitis A Vaccine,D0755
+D0428,Hepatitis B Vaccine (Recombinant),D0756
+D0428,Human papillomavirus type 11 L1 capsid protein antigen,D0767
+D0428,Influenza A virus A/California/7/2009 (H1N1)-like antigen (propiolactone inactivated),D0803
+D0428,Influenza A virus A/Vietnam/1194/2004 (H5N1) antigen (formaldehyde inactivated),D0804
+D0428,Measles virus vaccine live attenuated,D1839
+D0428,Meningococcal polysaccharide vaccine group C,D0999
+D0428,Mumps virus strain B level jeryl lynn live antigen,D1849
+D0428,Pfizer-BioNTech Covid-19 Vaccine,D1259
+D0428,Poliovirus type 1 antigen (formaldehyde inactivated),D1307
+D0428,Rotavirus vaccine,D1881
+D0428,Rubella virus vaccine,D1882
+D0428,"Smallpox (Vaccinia) Vaccine, Live",D1890
+D0428,Talimogene laherparepvec,D1897
+D0428,Typhoid vaccine (inactivated),D1914
+D0428,Typhoid vaccine (live),D1914
+D0428,Varicella Zoster Vaccine (Recombinant),D1920
+D0428,Vibrio cholerae CVD 103-HgR strain live antigen,D1693
+D0428,Yellow Fever Vaccine,D1922
+D0428,Lyme disease vaccine (recombinant OspA),D1838
+D0428,Alfentanil,D0035
+D0428,Almotriptan,D0041
+D0428,Alprazolam,D0045
+D0428,Amprenavir,D0081
+D0428,Aprepitant,D0100
+D0428,Atazanavir,D0116
+D0428,Atorvastatin,D0120
+D0428,Budesonide (nasal),D0216
+D0428,Budesonide,D0216
+D0428,Buspirone,D0222
+D0428,Cerivastatin,D0303
+D0428,Cevimeline,D0308
+D0428,Chloramphenicol,D0315
+D0428,Cinacalcet,D0338
+D0428,Clarithromycin,D0349
+D0428,Clonazepam,D0362
+D0428,Clorazepic acid,D0365
+D0428,Clotrimazole,D0367
+D0428,Conivaptan,D0386
+D0428,Conjugated estrogens,D0388
+D0428,Cyclosporine,D0402
+D0428,Darifenacin,D0424
+D0428,Abemaciclib,D0006
+D0428,Abametapir (topical),D0002
+D0428,Axitinib,D0133
+D0428,Berotralstat,D0171
+D0428,Boceprevir,D0192
+D0428,Bosutinib,D0195
+D0428,Cabazitaxel,D0227
+D0428,Cariprazine,D0262
+D0428,Ceritinib,D0302
+D0428,Cobicistat,D0375
+D0428,Cobimetinib,D0376
+D0428,Colchicine,D0380
+D0428,Copanlisib,D0389
+D0428,Dalfopristin,D0413
+D0428,Darunavir,D0426
+D0428,Danazol,D0416
+D0428,Dihydrocodeine,D0493
+D0428,Dolutegravir,D0515
+D0428,Doravirine,D0518
+D0428,Echinacea,D0545
+D0428,Eliglustat,D0559
+D0428,Duvelisib,D0543
+D0428,Estrone sulfate,D0611
+D0428,Estrone sulfate (topical),D0611
+D0428,Etravirine,D0628
+D0428,Everolimus,D0629
+D0428,Fedratinib,D0638
+D0428,Flibanserin,D0665
+D0428,Fosaprepitant,D0693
+D0428,Fosamprenavir,D0692
+D0428,Fostamatinib,D0699
+D0428,Grazoprevir,D0739
+D0428,Isavuconazonium,D0852
+D0428,Idelalisib,D0789
+D0428,Ivacaftor,D0869
+D0428,Ixabepilone,D0873
+D0428,Lemborexant,D0901
+D0428,Larotrectinib,D0896
+D0428,Letermovir,D0906
+D0428,Lomitapide,D0944
+D0428,Lurasidone,D0961
+D0428,Macitentan,D0966
+D0428,Lonafarnib,D0946
+D0428,Naloxegol,D1104
+D0428,Mirabegron,D1074
+D0428,Maraviroc,D0980
+D0428,Pemigatinib,D1242
+D0428,Palbociclib,D1214
+D0428,Polatuzumab vedotin,D1306
+D0428,Posaconazole,D1315
+D0428,Pralsetinib,D1324
+D0428,Retapamulin (topical),D1394
+D0428,Ripretinib,D1409
+D0428,Saxagliptin,D1449
+D0428,Quinestrol,D1370
+D0428,Selumetinib,D1460
+D0428,Sonidegib,D1496
+D0428,Suvorexant,D1524
+D0428,Delavirdine,D0439
+D0428,Dihydroergotamine,D0494
+D0428,Diltiazem,D0497
+D0428,Temsirolimus,D1549
+D0428,Tucatinib,D1660
+D0428,Tazemetostat,D1538
+D0428,Troleandomycin,D1653
+D0428,Venetoclax,D1688
+D0428,Voxelotor,D1709
+D0428,Telaprevir,D1541
+D0428,Trabectedin,D1615
+D0428,Docetaxel,D0511
+D0428,Donepezil,D0516
+D0428,Dutasteride,D0542
+D0428,Eletriptan,D0557
+D0428,Ergotamine,D0593
+D0428,Ergometrine,D0592
+D0428,Erlotinib,D0595
+D0428,Erythromycin,D0597
+D0428,Estazolam,D0604
+D0428,Estradiol (topical),D0607
+D0428,Estradiol,D0607
+D0428,Estrone,D0609
+D0428,Eszopiclone,D0612
+D0428,Ethinylestradiol,D0619
+D0428,Etonogestrel,D0626
+D0428,Etoposide,D0627
+D0428,Fentanyl,D0646
+D0428,Fluconazole,D0667
+D0428,Fludrocortisone,D0671
+D0428,Galantamine,D0707
+D0428,Gefitinib,D0713
+D0428,Granisetron,D0738
+D0428,Guanfacine,D0745
+D0428,Imatinib,D0793
+D0428,Indinavir,D0799
+D0428,Irinotecan (liposomal),D0846
+D0428,Irinotecan,D0846
+D0428,Isradipine,D0865
+D0428,Itraconazole,D0867
+D0428,Ivermectin,D0871
+D0428,Ketoconazole,D0880
+D0428,Letrozole,D0907
+D0428,Levobupivacaine,D0916
+D0428,Levonorgestrel,D0922
+D0428,Lidocaine,D0927
+D0428,Loratadine,D0950
+D0428,Lovastatin,D0956
+D0428,Medroxyprogesterone acetate,D0990
+D0428,Methylergometrine,D1037
+D0428,Methysergide,D1043
+D0428,Miconazole,D1058
+D0428,Midazolam,D1060
+D0428,Nefazodone,D1117
+D0428,Nelfinavir,D1119
+D0428,Nicardipine,D1130
+D0428,Nifedipine,D1134
+D0428,Nimodipine,D1138
+D0428,Nitisinone,D1143
+D0428,Norethisterone,D1154
+D0428,Oxybutynin,D1202
+D0428,Paclitaxel (protein-bound),D1213
+D0428,Paclitaxel,D1213
+D0428,Pimecrolimus (topical),D1291
+D0428,Prednisolone,D1333
+D0428,Prednisone,D1334
+D0428,Progesterone (topical),D1349
+D0428,Progesterone,D1349
+D0428,Ritonavir,D1415
+D0428,Ropivacaine,D1428
+D0428,Simvastatin,D1473
+D0428,Sirolimus,D1476
+D0428,Tadalafil,D1527
+D0428,Telithromycin,D1544
+D0428,Teniposide,D1551
+D0428,Testosterone (topical),D1559
+D0428,Testosterone,D1559
+D0428,Tiagabine,D1578
+D0428,Tretinoin,D1626
+D0428,Triazolam,D1632
+D0428,Valdecoxib,D1674
+D0428,Vinblastine,D1697
+D0428,Vincristine (liposome),D1699
+D0428,Vincristine,D1699
+D0428,Voriconazole,D1706
+D0428,Zolpidem,D1729
+D0428,Zonisamide,D1730
+D0428,Aminoglutethimide,D0061
+D0428,Hydrocortisone,D1813
+D0428,Bexarotene,D0178
+D0428,Bosentan,D0194
+D0428,Butabarbital,D0224
+D0428,Butalbital,D0225
+D0428,Carbamazepine,D0255
+D0428,Amobarbital,D0071
+D0428,Armodafinil,D0106
+D0428,Apalutamide,D0095
+D0428,Brigatinib,D0204
+D0428,Cenobamate,D0300
+D0428,Dabrafenib,D0406
+D0428,Elagolix,D0555
+D0428,Eslicarbazepine,D0601
+D0428,Enzalutamide,D0578
+D0428,Metreleptin,D1050
+D0428,Fosphenytoin,D0697
+D0428,Glycerol phenylbutyrate,D0732
+D0428,Lesinurad,D0905
+D0428,Lorlatinib,D0953
+D0428,Lumacaftor,D0958
+D0428,Somapacitan,D1493
+D0428,Pexidartinib,D1258
+D0428,St. John's Wort,D1502
+D0428,Somatrem,D1495
+D0428,Telotristat ethyl,D1546
+D0428,Methylphenobarbital,D1040
+D0428,Mitotane,D1078
+D0428,Nafcillin,D1099
+D0428,Oxcarbazepine,D1198
+D0428,Felbamate,D0639
+D0428,Pentobarbital,D1248
+D0428,Phenobarbital,D1265
+D0428,Primidone,D1340
+D0428,Rifabutin,D1399
+D0428,Rifapentine,D1401
+D0428,Secobarbital,D1453
+D0428,Somatotropin,D1494
+D0428,Troglitazone,D1652

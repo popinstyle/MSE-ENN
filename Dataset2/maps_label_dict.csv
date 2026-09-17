@@ -1,0 +1,48 @@
+Maps,label_type
+0,Altered formation of CYP450 enzymes
+1,Antagonize the effect of alpha-glucosidase inhibitors
+2,Antagonize the effect of anti-hyperammonemia agents
+3,Antagonize the effect of antidiabetic agents
+4,Antagonize the effect of antidiabetic agents || CYP450 enzyme induction
+5,Antagonize the effect of antiepileptic agents
+6,Antagonize the effect of antiepileptic agents || CYP450 enzyme induction
+7,Antagonize the effect of antiepileptic agents || CYP450 enzyme inhibition
+8,Antagonize the effect of antihypertensive agents
+9,Antagonize the effect of antithrombotic agents
+10,Antagonize the effect of bronchodilators
+11,Antagonize the effect of cholinergic agents
+12,Antagonize the effect of corticosteroids || CYP450 enzyme inhibition
+13,Antagonize the effect of dopaminergic agents
+14,Antagonize the effect of estrogen
+15,Antagonize the effect of neuromuscular blocking agents
+16,Antagonize the effect of opioid receptor agonists
+17,Antagonize the effect of probiotics
+18,Antagonize the effect of prokinetic agents
+19,Antagonize the effect of serotonergic agents
+20,Antagonize the effect of uricosuric agents
+21,Antagonize the effect of vaccine/toxoid
+22,Attenuated pharmacological effects (Unspecific)
+23,CYP450 enzyme induction
+24,CYP450 enzyme induction || CYP450 enzyme inhibition
+25,CYP450 enzyme induction || CYP450 enzyme inhibition || Transporter induction || Transporter inhibition
+26,CYP450 enzyme induction || Transporter induction
+27,CYP450 enzyme induction || Transporter induction || Transporter inhibition
+28,CYP450 enzyme induction || Transporter induction || UGT induction
+29,CYP450 enzyme induction || Transporter inhibition
+30,CYP450 enzyme induction || UGT induction
+31,CYP450 enzyme inhibition
+32,CYP450 enzyme inhibition || Non-CYP450 enzyme inhibition
+33,CYP450 enzyme inhibition || Transporter induction
+34,CYP450 enzyme inhibition || Transporter inhibition
+35,CYP450 enzyme inhibition || UGT induction
+36,CYP450 enzyme inhibition || UGT inhibition
+37,Competitive inhibition of metabolic enzyme
+38,Non-CYP450 enzyme inhibition
+39,Potentiated the pharmacological effects (Unspecific)
+40,Transporter induction
+41,Transporter induction || Transporter inhibition
+42,Transporter induction || UGT induction
+43,Transporter inhibition
+44,Transporter inhibition || UGT inhibition
+45,UGT induction
+46,UGT inhibition

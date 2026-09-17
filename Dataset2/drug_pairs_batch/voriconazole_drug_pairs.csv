@@ -1,0 +1,385 @@
+Voriconazole_D_ID,Drug_Victim,Victim_D_ID
+D1706,Acetohexamide,D0013
+D1706,Albendazole,D0028
+D1706,Alfuzosin,D0036
+D1706,Alprazolam,D0045
+D1706,Amlodipine,D0069
+D1706,Betamethasone,D1748
+D1706,Bortezomib,D0193
+D1706,Bosentan,D0194
+D1706,Buspirone,D0222
+D1706,Carisoprodol,D0263
+D1706,Celecoxib,D0298
+D1706,Cerivastatin,D0303
+D1706,Cevimeline,D0308
+D1706,Chlordiazepoxide,D0317
+D1706,Clobazam,D0356
+D1706,Conjugated estrogens (topical),D0388
+D1706,Conjugated estrogens,D0388
+D1706,Cyclosporine,D0402
+D1706,Dapsone,D0420
+D1706,Darifenacin,D0424
+D1706,Dicoumarol,D0481
+D1706,Diethylstilbestrol,D0487
+D1706,Dihydroergotamine,D0494
+D1706,Desogestrel,D0450
+D1706,Erlotinib,D0595
+D1706,Erythromycin,D0597
+D1706,Eszopiclone,D0612
+D1706,Etonogestrel,D0626
+D1706,Fluconazole,D0667
+D1706,Flunisolide (nasal),D0673
+D1706,Flunisolide,D0673
+D1706,Fluorometholone (ophthalmic),D0674
+D1706,Gefitinib,D0713
+D1706,Glimepiride,D0727
+D1706,Indomethacin,D0800
+D1706,Isradipine,D0865
+D1706,Levonorgestrel,D0922
+D1706,Lidocaine,D0927
+D1706,Loratadine,D0950
+D1706,Lovastatin,D0956
+D1706,Megestrol acetate,D0993
+D1706,Mephenytoin,D1003
+D1706,Methylergometrine,D1037
+D1706,Methysergide,D1043
+D1706,Mirtazapine,D1075
+D1706,Montelukast,D1087
+D1706,Nelfinavir,D1119
+D1706,Nimodipine,D1138
+D1706,Nisoldipine,D1141
+D1706,Nitisinone,D1143
+D1706,Omeprazole,D1179
+D1706,Oxycodone,D1203
+D1706,Pantoprazole,D1222
+D1706,Phenytoin,D1283
+D1706,Pimecrolimus (topical),D1291
+D1706,Piroxicam,D1300
+D1706,Progesterone (topical),D1349
+D1706,Progesterone,D1349
+D1706,Propranolol,D1357
+D1706,Quinine,D1372
+D1706,Ranolazine,D1383
+D1706,Ropivacaine,D1428
+D1706,Rosiglitazone,D1429
+D1706,Sildenafil,D1465
+D1706,Terfenadine,D1555
+D1706,Theophylline,D1570
+D1706,Torasemide,D1611
+D1706,Toremifene,D1612
+D1706,Valdecoxib,D1674
+D1706,Vinblastine,D1697
+D1706,Vincristine (liposome),D1699
+D1706,Vincristine,D1699
+D1706,Vinorelbine,D1700
+D1706,Abametapir (topical),D0002
+D1706,Abemaciclib,D0006
+D1706,Acalabrutinib,D0008
+D1706,Aliskiren,D0038
+D1706,Alfentanil,D0035
+D1706,Ambrisentan,D0053
+D1706,Almotriptan,D0041
+D1706,Alosetron,D0043
+D1706,Amiodarone,D0066
+D1706,Amprenavir,D0081
+D1706,Aripiprazole,D0105
+D1706,Apixaban,D0096
+D1706,Anisindione,D0087
+D1706,Aprepitant,D0100
+D1706,Astemizole,D0115
+D1706,Atazanavir,D0116
+D1706,Atorvastatin,D0120
+D1706,Avanafil,D0128
+D1706,Axitinib,D0133
+D1706,Avapritinib,D0129
+D1706,Benzhydrocodone,D0161
+D1706,Bedaquiline,D0149
+D1706,Bictegravir,D0181
+D1706,Avatrombopag,D0130
+D1706,Boceprevir,D0192
+D1706,Bosutinib,D0195
+D1706,Brexpiprazole,D0202
+D1706,Brigatinib,D0204
+D1706,Brentuximab vedotin,D0199
+D1706,Brivaracetam,D0208
+D1706,Bromocriptine,D0212
+D1706,Budesonide (nasal),D0216
+D1706,Budesonide,D0216
+D1706,Buprenorphine,D0219
+D1706,Butorphanol,D0226
+D1706,Cabozantinib,D0230
+D1706,Cannabidiol,D0248
+D1706,Cabazitaxel,D0227
+D1706,Cariprazine,D0262
+D1706,Cenobamate,D0300
+D1706,Capmatinib,D0251
+D1706,Ciclesonide,D0334
+D1706,Cilostazol,D0336
+D1706,Chlorpropamide,D0325
+D1706,Cinacalcet,D0338
+D1706,Ciclesonide (nasal),D0334
+D1706,Ceritinib,D0302
+D1706,Clindamycin,D0354
+D1706,Cisapride,D0342
+D1706,Clonazepam,D0362
+D1706,Clopidogrel,D0364
+D1706,Clorazepic acid,D0365
+D1706,Cobicistat,D0375
+D1706,Cocaine (topical),D0378
+D1706,Cobimetinib,D0376
+D1706,Copanlisib,D0389
+D1706,Colchicine,D0380
+D1706,Cyclobenzaprine,D0398
+D1706,Dabrafenib,D0406
+D1706,Crizotinib,D0393
+D1706,Daclatasvir,D0408
+D1706,Darolutamide,D0425
+D1706,Cocaine (nasal),D0378
+D1706,Dasatinib,D0428
+D1706,Deflazacort,D0436
+D1706,Delavirdine,D0439
+D1706,Dexamethasone (ophthalmic),D1772
+D1706,Dexamethasone (nasal),D1772
+D1706,Diazepam,D0473
+D1706,Diclofenac,D0477
+D1706,Dienestrol (topical),D0484
+D1706,Docetaxel,D0511
+D1706,Doxazosin,D0524
+D1706,Dronedarone,D0534
+D1706,Dutasteride,D0542
+D1706,Drospirenone,D0536
+D1706,Donepezil,D0516
+D1706,Dolutegravir,D0515
+D1706,Duvelisib,D0543
+D1706,Efavirenz,D0554
+D1706,Eliglustat,D0559
+D1706,Doravirine,D0518
+D1706,Encorafenib,D0569
+D1706,Elagolix,D0555
+D1706,Eluxadoline,D0562
+D1706,Enfortumab vedotin,D0571
+D1706,Eravacycline,D0589
+D1706,Ergometrine,D0592
+D1706,Eplerenone,D0585
+D1706,Esomeprazole,D0603
+D1706,Entrectinib,D0577
+D1706,Estazolam,D0604
+D1706,Ergotamine,D0593
+D1706,Esterified estrogens,D0605
+D1706,Estradiol,D0607
+D1706,Estradiol (topical),D0607
+D1706,Erdafitinib,D0590
+D1706,Estrone sulfate,D0611
+D1706,Estrone sulfate (topical),D0611
+D1706,Etoposide,D0627
+D1706,Ethinylestradiol,D0619
+D1706,Estrone,D0609
+D1706,Etravirine,D0628
+D1706,Ethosuximide,D0620
+D1706,Everolimus,D0629
+D1706,Fedratinib,D0638
+D1706,Fenofibrate,D0642
+D1706,Finasteride,D0660
+D1706,Fesoterodine,D0655
+D1706,Fentanyl,D0646
+D1706,Felodipine,D0640
+D1706,Flibanserin,D0665
+D1706,Fludrocortisone,D0671
+D1706,Flurbiprofen,D0681
+D1706,Fluvastatin,D0686
+D1706,Flurazepam,D0679
+D1706,Fostamatinib,D0699
+D1706,Fluticasone (nasal),D0685
+D1706,Fosaprepitant,D0693
+D1706,Galantamine,D0707
+D1706,Fluticasone,D0685
+D1706,Fosphenytoin,D0697
+D1706,Glipizide,D0728
+D1706,Fosamprenavir,D0692
+D1706,Granisetron,D0738
+D1706,Glyburide,D0730
+D1706,Glasdegib,D0725
+D1706,Grazoprevir,D0739
+D1706,Guanfacine,D0745
+D1706,Hydrocodone,D0772
+D1706,Hydrocortisone,D1813
+D1706,Hydrocortisone (ophthalmic),D1813
+D1706,Ibrutinib,D0785
+D1706,Ibuprofen,D0786
+D1706,Irbesartan,D0844
+D1706,Isavuconazonium,D0852
+D1706,Irinotecan,D0846
+D1706,Irinotecan (liposomal),D0846
+D1706,Itraconazole,D0867
+D1706,Ivermectin,D0871
+D1706,Ivabradine,D0868
+D1706,Ivacaftor,D0869
+D1706,Ivosidenib,D0872
+D1706,Lapatinib,D0894
+D1706,Ixabepilone,D0873
+D1706,Lacosamide,D0885
+D1706,Ketoconazole,D0880
+D1706,Istradefylline,D0866
+D1706,Lemborexant,D0901
+D1706,Larotrectinib,D0896
+D1706,Lefamulin,D0899
+D1706,Lesinurad,D0905
+D1706,Levomilnacipran,D0920
+D1706,Levacetylmethadol,D0909
+D1706,Loperamide,D0947
+D1706,Levamlodipine,D0911
+D1706,Levobupivacaine,D0916
+D1706,Lomitapide,D0944
+D1706,Lorlatinib,D0953
+D1706,Losartan,D0954
+D1706,Maraviroc,D0980
+D1706,Macitentan,D0966
+D1706,Loteprednol (ophthalmic),D0955
+D1706,Lurbinectedin,D0962
+D1706,Lurasidone,D0961
+D1706,Lumateperone,D0959
+D1706,Medroxyprogesterone acetate,D0990
+D1706,Mefenamic acid,D0991
+D1706,Mifepristone,D1063
+D1706,Midazolam,D1060
+D1706,Mirabegron,D1074
+D1706,Midostaurin,D1062
+D1706,Meloxicam,D0995
+D1706,Naldemedine,D1101
+D1706,Miconazole,D1058
+D1706,Naloxegol,D1104
+D1706,Nateglinide,D1112
+D1706,Norethisterone,D1154
+D1706,Nefazodone,D1117
+D1706,Nicardipine,D1130
+D1706,Neratinib,D1124
+D1706,Nifedipine,D1134
+D1706,Nilotinib,D1136
+D1706,Norgestrel,D1157
+D1706,Oliceridine,D1169
+D1706,Palbociclib,D1214
+D1706,Olaparib,D1167
+D1706,Osimertinib,D1190
+D1706,Osilodrostat,D1189
+D1706,Paclitaxel (protein-bound),D1213
+D1706,Paclitaxel,D1213
+D1706,Ospemifene,D1191
+D1706,Paricalcitol,D1226
+D1706,Perampanel,D1253
+D1706,Pimavanserin,D1290
+D1706,Panobinostat,D1221
+D1706,Pexidartinib,D1258
+D1706,Pazopanib,D1232
+D1706,Pimozide,D1292
+D1706,Pioglitazone,D1294
+D1706,Pirfenidone,D1299
+D1706,Polatuzumab vedotin,D1306
+D1706,Pomalidomide,D1312
+D1706,Ponatinib,D1313
+D1706,Pralsetinib,D1324
+D1706,Prednisolone (ophthalmic),D1333
+D1706,Prednisolone,D1333
+D1706,Quazepam,D1367
+D1706,Quetiapine,D1368
+D1706,Prednisone,D1334
+D1706,Quinestrol,D1370
+D1706,Regorafenib,D1387
+D1706,Ramelteon,D1378
+D1706,Quinidine,D1371
+D1706,Repaglinide,D1392
+D1706,Rabeprazole,D1373
+D1706,Retapamulin (topical),D1394
+D1706,Rimegepant,D1407
+D1706,Ribociclib,D1398
+D1706,Rilpivirine,D1404
+D1706,Riociguat,D1408
+D1706,Ripretinib,D1409
+D1706,Rivaroxaban,D1417
+D1706,Silodosin,D1466
+D1706,Saxagliptin,D1449
+D1706,Selumetinib,D1460
+D1706,Simeprevir,D1471
+D1706,Romidepsin,D1424
+D1706,Solifenacin,D1491
+D1706,Sirolimus,D1476
+D1706,Stiripentol,D1505
+D1706,Selpercatinib,D1459
+D1706,Simvastatin,D1473
+D1706,Sonidegib,D1496
+D1706,Salmeterol,D1440
+D1706,Sufentanil,D1512
+D1706,Suvorexant,D1524
+D1706,Tacrolimus,D1526
+D1706,Tadalafil,D1527
+D1706,Tazemetostat,D1538
+D1706,Tamsulosin,D1534
+D1706,Telaprevir,D1541
+D1706,Tasimelteon,D1536
+D1706,Tiagabine,D1578
+D1706,Testosterone (topical),D1559
+D1706,Testosterone,D1559
+D1706,Tofacitinib,D1600
+D1706,Tipranavir,D1592
+D1706,Tolazamide,D1601
+D1706,Ticagrelor,D1579
+D1706,Tolbutamide,D1603
+D1706,Tolvaptan,D1608
+D1706,Tolterodine,D1607
+D1706,Triamcinolone,D1911
+D1706,Trabectedin,D1615
+D1706,Trastuzumab emtansine,D1623
+D1706,Triamcinolone (ophthalmic),D1911
+D1706,Triamcinolone (nasal),D1911
+D1706,Tretinoin,D1626
+D1706,Ubrogepant,D1663
+D1706,Troleandomycin,D1653
+D1706,Trazodone,D1624
+D1706,Tucatinib,D1660
+D1706,Triazolam,D1632
+D1706,Ulipristal,D1664
+D1706,Upadacitinib,D1666
+D1706,Valbenazine,D1673
+D1706,Vilazodone,D1696
+D1706,Verapamil,D1690
+D1706,Vorapaxar,D1705
+D1706,Voxelotor,D1709
+D1706,Zanubrutinib,D1718
+D1706,Zileuton,D1721
+D1706,Zonisamide,D1730
+D1706,Zaleplon,D1716
+D1706,Warfarin,D1711
+D1706,Zafirlukast,D1714
+D1706,Zolpidem,D1729
+D1706,Aminoglutethimide,D0061
+D1706,Butabarbital,D0224
+D1706,Butalbital,D0225
+D1706,Carbamazepine,D0255
+D1706,Griseofulvin,D0741
+D1706,Nevirapine,D1128
+D1706,Pentobarbital,D1248
+D1706,Ritonavir,D1415
+D1706,Secobarbital,D1453
+D1706,Troglitazone,D1652
+D1706,Amobarbital,D0071
+D1706,Alpelisib,D0044
+D1706,Deferasirox,D0432
+D1706,Apalutamide,D0095
+D1706,Eslicarbazepine,D0601
+D1706,Enzalutamide,D0578
+D1706,Felbamate,D0639
+D1706,Letermovir,D0906
+D1706,Modafinil,D1081
+D1706,Mitotane,D1078
+D1706,Nafcillin,D1099
+D1706,Methylphenobarbital,D1040
+D1706,Oxcarbazepine,D1198
+D1706,Phenobarbital,D1265
+D1706,Rifabutin,D1399
+D1706,Primidone,D1340
+D1706,Rufinamide,D1433
+D1706,Rifapentine,D1401
+D1706,Rifampicin,D1400
+D1706,Sulfinpyrazone,D1518
+D1706,St. John's Wort,D1502
+D1706,Temsirolimus,D1549
+D1706,Fexofenadine,D0656

@@ -1,0 +1,138 @@
+feature_name,hit_top1,hit_top2,hit_top3,hit_topk_total
+ABCB1,927,352,267,1546
+Pharmacodynamics,266,186,238,690
+Cytochrome P450 2D6,149,225,217,591
+Cytochrome P450,173,169,180,522
+BCRP,9,336,149,494
+Cytochrome P450 3A,87,147,205,439
+Cytochrome P450 1A2,142,142,148,432
+Vaccine/toxoid,244,39,37,320
+Cytochrome P450 2C9,80,124,89,293
+Cytochrome P450 2C19,44,110,126,280
+Probiotics,9,164,70,243
+Antidiabetic agents,156,70,8,234
+UDP-glucuronosyltransferase,84,77,48,209
+OATP1B1,2,64,108,174
+Antihypertensive agents,8,75,79,162
+Cytochrome P450 3A4,82,49,30,161
+Cytochrome P450 2B6,2,97,56,155
+UDP-glucuronosyltransferase 1A1,29,69,56,154
+Monoamine oxidase,53,12,13,78
+morgan140,2,13,57,72
+Cytochrome P450 2C8,2,13,38,53
+Catechol-O-methyl-transferase,17,15,18,50
+Acetylcholinesterase || Muscarinic acetylcholine receptor M,2,26,17,45
+Muscarinic acetylcholine receptor M,35,1,5,41
+Enzyme,8,8,18,34
+MATE1,8,7,17,32
+Muscarinic acetylcholine receptor M || Acetylcholinesterase,14,8,9,31
+44836,5,8,11,24
+morgan163,0,5,19,24
+Vasopressin V2 receptor,0,0,18,18
+Dopamine receptor,1,7,8,16
+Progesterone receptor,1,0,15,16
+Uricosuric agents,0,10,3,13
+morgan396,0,0,13,13
+5-HT 2 receptor || Serotonin transporter,0,0,12,12
+morgan998,0,0,12,12
+Antithrombotic agents,10,1,0,11
+UDP-glucuronosyltransferase 1A9,6,2,3,11
+N-acetyltransferase,5,2,4,11
+morgan372,0,1,10,11
+Cytochrome P450 2A6,0,6,3,9
+morgan435,0,2,7,9
+44835,0,0,9,9
+Adrenergic receptor beta-2,8,0,0,8
+morgan997,0,0,8,8
+Thiopurine methyltransferase,0,6,1,7
+ENT1,0,0,7,7
+morgan135,0,0,7,7
+Inosine-5'-monophosphate dehydrogenase 1,0,0,6,6
+morgan620,0,0,6,6
+morgan985,0,0,6,6
+Aldehyde dehydrogenase 1,2,0,3,5
+Prostaglandin G/H synthase 2,0,1,4,5
+morgan36,0,1,4,5
+Cytochrome P450 1A1,0,0,5,5
+OATP2B1,0,0,5,5
+UDP-glucuronosyltransferase 2B7,0,0,5,5
+morgan143,0,0,5,5
+morgan460,0,0,5,5
+morgan888,0,0,5,5
+Neuronal acetylcholine receptor,0,4,0,4
+morgan284,0,2,2,4
+Angiotensin-converting enzyme,0,0,4,4
+Cytochrome P450 2C,0,0,4,4
+OAT1,0,0,4,4
+OATP1B3,0,0,4,4
+Prokinetic agents,0,0,4,4
+morgan820,0,0,4,4
+morgan991,0,0,4,4
+Alcohol dehydrogenase,3,0,0,3
+Vitamin D 25-hydroxylase,3,0,0,3
+Dopamine D1 receptor,0,3,0,3
+Guanylate cyclase soluble,0,3,0,3
+morgan184,0,3,0,3
+morgan171,0,1,2,3
+morgan389,0,1,2,3
+Muscarinic acetylcholine receptor M || Dopamine receptor,0,0,3,3
+morgan231,0,0,3,3
+morgan606,0,0,3,3
+morgan843,0,1,1,2
+morgan87,0,1,1,2
+5-HT 2 receptor || Monoamine oxidase,0,0,2,2
+Muscarinic acetylcholine receptor M || 5-HT 4 receptor,0,0,2,2
+Muscarinic acetylcholine receptor M || Neuronal acetylcholine receptor,0,0,2,2
+Norepinephrine transporter || Monoamine oxidase,0,0,2,2
+morgan181,0,0,2,2
+morgan26,0,0,2,2
+morgan266,0,0,2,2
+morgan37,0,0,2,2
+morgan394,0,0,2,2
+morgan48,0,0,2,2
+morgan66,0,0,2,2
+UDP-glucuronosyltransferase 1A3,0,1,0,1
+Xanthine dehydrogenase/oxidase,0,1,0,1
+morgan212,0,1,0,1
+morgan263,0,1,0,1
+morgan717,0,1,0,1
+morgan770,0,1,0,1
+morgan791,0,1,0,1
+morgan866,0,1,0,1
+morgan938,0,1,0,1
+Insulin-like growth factor 1 receptor,0,0,1,1
+MATE2,0,0,1,1
+Opioid receptor,0,0,1,1
+UDP-glucuronosyltransferase 1A,0,0,1,1
+morgan100,0,0,1,1
+morgan1006,0,0,1,1
+morgan1009,0,0,1,1
+morgan128,0,0,1,1
+morgan142,0,0,1,1
+morgan189,0,0,1,1
+morgan203,0,0,1,1
+morgan204,0,0,1,1
+morgan214,0,0,1,1
+morgan216,0,0,1,1
+morgan241,0,0,1,1
+morgan243,0,0,1,1
+morgan246,0,0,1,1
+morgan258,0,0,1,1
+morgan283,0,0,1,1
+morgan294,0,0,1,1
+morgan420,0,0,1,1
+morgan425,0,0,1,1
+morgan437,0,0,1,1
+morgan469,0,0,1,1
+morgan540,0,0,1,1
+morgan546,0,0,1,1
+morgan588,0,0,1,1
+morgan613,0,0,1,1
+morgan658,0,0,1,1
+morgan713,0,0,1,1
+morgan715,0,0,1,1
+morgan833,0,0,1,1
+morgan86,0,0,1,1
+morgan884,0,0,1,1
+morgan89,0,0,1,1
+morgan894,0,0,1,1

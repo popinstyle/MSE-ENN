@@ -1,0 +1,331 @@
+Erythromycin_D_ID,Drug_Victim,Victim_D_ID
+D0597,Vibrio cholerae CVD 103-HgR strain live antigen (live),D1693
+D0597,Bortezomib,D0193
+D0597,Cevimeline,D0308
+D0597,Cyclosporine,D0402
+D0597,Abametapir (topical),D0002
+D0597,Abemaciclib,D0006
+D0597,Acalabrutinib,D0008
+D0597,Aliskiren,D0038
+D0597,Alfuzosin,D0036
+D0597,Alfentanil,D0035
+D0597,Alosetron,D0043
+D0597,Alprazolam,D0045
+D0597,Almotriptan,D0041
+D0597,Ambrisentan,D0053
+D0597,Amiodarone,D0066
+D0597,Aminophylline,D0064
+D0597,Amprenavir,D0081
+D0597,Amlodipine,D0069
+D0597,Apixaban,D0096
+D0597,Anisindione,D0087
+D0597,Aprepitant,D0100
+D0597,Aripiprazole,D0105
+D0597,Armodafinil,D0106
+D0597,Artemether,D0108
+D0597,Astemizole,D0115
+D0597,Atazanavir,D0116
+D0597,Atorvastatin,D0120
+D0597,Bictegravir,D0181
+D0597,Benzhydrocodone,D0161
+D0597,Avapritinib,D0129
+D0597,Avanafil,D0128
+D0597,Bosutinib,D0195
+D0597,Betamethasone,D1748
+D0597,Boceprevir,D0192
+D0597,Bosentan,D0194
+D0597,Buspirone,D0222
+D0597,Budesonide (nasal),D0216
+D0597,Brexpiprazole,D0202
+D0597,Brentuximab vedotin,D0199
+D0597,Buprenorphine,D0219
+D0597,Brigatinib,D0204
+D0597,Bromocriptine,D0212
+D0597,Budesonide,D0216
+D0597,Cannabidiol,D0248
+D0597,Butorphanol,D0226
+D0597,Cabergoline,D0228
+D0597,Cabazitaxel,D0227
+D0597,Ceritinib,D0302
+D0597,Chlordiazepoxide,D0317
+D0597,Cerivastatin,D0303
+D0597,Cariprazine,D0262
+D0597,Clobazam,D0356
+D0597,Cimetidine,D0337
+D0597,Clarithromycin,D0349
+D0597,Cilostazol,D0336
+D0597,Cisapride,D0342
+D0597,Cinacalcet,D0338
+D0597,Clonazepam,D0362
+D0597,Copanlisib,D0389
+D0597,Clozapine,D0370
+D0597,Clopidogrel,D0364
+D0597,Conjugated estrogens (topical),D0388
+D0597,Cobicistat,D0375
+D0597,Clorazepic acid,D0365
+D0597,Cobimetinib,D0376
+D0597,Colchicine,D0380
+D0597,Conjugated estrogens,D0388
+D0597,Daclatasvir,D0408
+D0597,Darunavir,D0426
+D0597,Dabrafenib,D0406
+D0597,Darolutamide,D0425
+D0597,Dasatinib,D0428
+D0597,Dalfopristin,D0413
+D0597,Darifenacin,D0424
+D0597,Deferasirox,D0432
+D0597,Deflazacort,D0436
+D0597,Delavirdine,D0439
+D0597,Desloratadine,D0448
+D0597,Dexamethasone (ophthalmic),D1772
+D0597,Dexamethasone (nasal),D1772
+D0597,Dicoumarol,D0481
+D0597,Diltiazem,D0497
+D0597,Disopyramide,D0508
+D0597,Docetaxel,D0511
+D0597,Dexamethasone,D1772
+D0597,Dienestrol (topical),D0484
+D0597,Dolutegravir,D0515
+D0597,Diethylstilbestrol,D0487
+D0597,Donepezil,D0516
+D0597,Doravirine,D0518
+D0597,Dihydroergotamine,D0494
+D0597,Dronedarone,D0534
+D0597,Dutasteride,D0542
+D0597,Duvelisib,D0543
+D0597,Echinacea,D0545
+D0597,Eletriptan,D0557
+D0597,Eliglustat,D0559
+D0597,Encorafenib,D0569
+D0597,Enfortumab vedotin,D0571
+D0597,Entrectinib,D0577
+D0597,Ergometrine,D0592
+D0597,Eplerenone,D0585
+D0597,Estazolam,D0604
+D0597,Ergotamine,D0593
+D0597,Estradiol,D0607
+D0597,Esterified estrogens,D0605
+D0597,Estradiol (topical),D0607
+D0597,Estrone,D0609
+D0597,Estrone sulfate,D0611
+D0597,Erlotinib,D0595
+D0597,Ethinylestradiol,D0619
+D0597,Eszopiclone,D0612
+D0597,Etonogestrel,D0626
+D0597,Estrone sulfate (topical),D0611
+D0597,Etravirine,D0628
+D0597,Fentanyl,D0646
+D0597,Felodipine,D0640
+D0597,Fedratinib,D0638
+D0597,Flibanserin,D0665
+D0597,Everolimus,D0629
+D0597,Fludrocortisone,D0671
+D0597,Fesoterodine,D0655
+D0597,Fluoxetine,D0676
+D0597,Fluorometholone (ophthalmic),D0674
+D0597,Fosamprenavir,D0692
+D0597,Flurazepam,D0679
+D0597,Fluticasone,D0685
+D0597,Fosaprepitant,D0693
+D0597,Fluticasone (nasal),D0685
+D0597,Fluvastatin,D0686
+D0597,Fostamatinib,D0699
+D0597,Gefitinib,D0713
+D0597,Gilteritinib,D0720
+D0597,Glasdegib,D0725
+D0597,Grazoprevir,D0739
+D0597,Halofantrine,D0749
+D0597,Halazepam,D0748
+D0597,Hydrocodone,D0772
+D0597,Hydrocortisone,D1813
+D0597,Hydrocortisone (ophthalmic),D1813
+D0597,Indinavir,D0799
+D0597,Idelalisib,D0789
+D0597,Ibrutinib,D0785
+D0597,Imatinib,D0793
+D0597,Irinotecan (liposomal),D0846
+D0597,Irinotecan,D0846
+D0597,Isavuconazonium,D0852
+D0597,Isradipine,D0865
+D0597,Istradefylline,D0866
+D0597,Itraconazole,D0867
+D0597,Ivacaftor,D0869
+D0597,Ivermectin,D0871
+D0597,Ixabepilone,D0873
+D0597,Ivosidenib,D0872
+D0597,Lapatinib,D0894
+D0597,Ketoconazole,D0880
+D0597,Lemborexant,D0901
+D0597,Levamlodipine,D0911
+D0597,Letermovir,D0906
+D0597,Levonorgestrel,D0922
+D0597,Larotrectinib,D0896
+D0597,Levobupivacaine,D0916
+D0597,Lomitapide,D0944
+D0597,Loratadine,D0950
+D0597,Loperamide,D0947
+D0597,Lurasidone,D0961
+D0597,Lonafarnib,D0946
+D0597,Loteprednol (ophthalmic),D0955
+D0597,Lovastatin,D0956
+D0597,Lurbinectedin,D0962
+D0597,Lumateperone,D0959
+D0597,Macitentan,D0966
+D0597,Medroxyprogesterone acetate,D0990
+D0597,Maraviroc,D0980
+D0597,Megestrol acetate,D0993
+D0597,Midazolam,D1060
+D0597,Methysergide,D1043
+D0597,Methylergometrine,D1037
+D0597,Midostaurin,D1062
+D0597,Mirtazapine,D1075
+D0597,Mirabegron,D1074
+D0597,Modafinil,D1081
+D0597,Neratinib,D1124
+D0597,Naloxegol,D1104
+D0597,Naldemedine,D1101
+D0597,Nefazodone,D1117
+D0597,Nelfinavir,D1119
+D0597,Nifedipine,D1134
+D0597,Nitisinone,D1143
+D0597,Nintedanib,D1139
+D0597,Norethisterone,D1154
+D0597,Norgestrel,D1157
+D0597,Oliceridine,D1169
+D0597,Olaparib,D1167
+D0597,Ospemifene,D1191
+D0597,Oxtriphylline,D1201
+D0597,Oxycodone,D1203
+D0597,Paclitaxel,D1213
+D0597,Paclitaxel (protein-bound),D1213
+D0597,Palbociclib,D1214
+D0597,Paricalcitol,D1226
+D0597,Pimecrolimus (topical),D1291
+D0597,Paroxetine,D1229
+D0597,Pazopanib,D1232
+D0597,Polatuzumab vedotin,D1306
+D0597,Pioglitazone,D1294
+D0597,Pomalidomide,D1312
+D0597,Posaconazole,D1315
+D0597,Pimozide,D1292
+D0597,Ponatinib,D1313
+D0597,Pralsetinib,D1324
+D0597,Prednisolone (ophthalmic),D1333
+D0597,Prednisolone,D1333
+D0597,Prednisone,D1334
+D0597,Progesterone,D1349
+D0597,Quazepam,D1367
+D0597,Quinestrol,D1370
+D0597,Quinine,D1372
+D0597,Quetiapine,D1368
+D0597,Ramelteon,D1378
+D0597,Ranolazine,D1383
+D0597,Regorafenib,D1387
+D0597,Ribociclib,D1398
+D0597,Retapamulin (topical),D1394
+D0597,Rilpivirine,D1404
+D0597,Repaglinide,D1392
+D0597,Relugolix,D1388
+D0597,Riociguat,D1408
+D0597,Rimegepant,D1407
+D0597,Ripretinib,D1409
+D0597,Ritonavir,D1415
+D0597,Rivaroxaban,D1417
+D0597,Romidepsin,D1424
+D0597,Roflumilast,D1422
+D0597,Saxagliptin,D1449
+D0597,Ruxolitinib,D1434
+D0597,Ropivacaine,D1428
+D0597,Selpercatinib,D1459
+D0597,Sertraline,D1461
+D0597,Sibutramine,D1464
+D0597,Sildenafil,D1465
+D0597,Stiripentol,D1505
+D0597,Sirolimus,D1476
+D0597,Simeprevir,D1471
+D0597,Solifenacin,D1491
+D0597,Sonidegib,D1496
+D0597,Simvastatin,D1473
+D0597,Silodosin,D1466
+D0597,Tacrolimus,D1526
+D0597,Sunitinib,D1522
+D0597,Suvorexant,D1524
+D0597,Tadalafil,D1527
+D0597,Tasimelteon,D1536
+D0597,Tamsulosin,D1534
+D0597,Tazemetostat,D1538
+D0597,Telaprevir,D1541
+D0597,Telithromycin,D1544
+D0597,Tofacitinib,D1600
+D0597,Temsirolimus,D1549
+D0597,Ticagrelor,D1579
+D0597,Tolvaptan,D1608
+D0597,Tolterodine,D1607
+D0597,Theophylline,D1570
+D0597,Triamcinolone (nasal),D1911
+D0597,Tucatinib,D1660
+D0597,Trazodone,D1624
+D0597,Triamcinolone,D1911
+D0597,Trimetrexate,D1646
+D0597,Ubrogepant,D1663
+D0597,Trabectedin,D1615
+D0597,Tretinoin,D1626
+D0597,Ulipristal,D1664
+D0597,Upadacitinib,D1666
+D0597,Valdecoxib,D1674
+D0597,Vardenafil,D1682
+D0597,Venlafaxine,D1689
+D0597,Venetoclax,D1688
+D0597,Verapamil,D1690
+D0597,Vilazodone,D1696
+D0597,Vincristine,D1699
+D0597,Vinblastine,D1697
+D0597,Vinorelbine,D1700
+D0597,Vincristine (liposome),D1699
+D0597,Voxelotor,D1709
+D0597,Zolpidem,D1729
+D0597,Zonisamide,D1730
+D0597,Warfarin,D1711
+D0597,Zanubrutinib,D1718
+D0597,Voriconazole,D1706
+D0597,Fluconazole,D0667
+D0597,Flunisolide (nasal),D0673
+D0597,Flunisolide,D0673
+D0597,Fluvoxamine,D0687
+D0597,Tramadol,D1616
+D0597,Cenobamate,D0300
+D0597,Enzalutamide,D0578
+D0597,Ethotoin,D0621
+D0597,Fosphenytoin,D0697
+D0597,Mephenytoin,D1003
+D0597,Phenytoin,D1283
+D0597,Pitolisant,D1302
+D0597,Oxcarbazepine,D1198
+D0597,Nevirapine,D1128
+D0597,Rifapentine,D1401
+D0597,Somapacitan,D1493
+D0597,Somatrem,D1495
+D0597,Telotristat ethyl,D1546
+D0597,Somatotropin,D1494
+D0597,Troglitazone,D1652
+D0597,Berotralstat,D0171
+D0597,Betrixaban,D0176
+D0597,Binimetinib,D0182
+D0597,Daunorubicin,D0430
+D0597,Daunorubicin (liposomal),D0430
+D0597,Digitoxin,D0490
+D0597,Digoxin,D0491
+D0597,Edoxaban,D0551
+D0597,Erdafitinib,D0590
+D0597,Fexofenadine,D0656
+D0597,Fidaxomicin,D0658
+D0597,Idarubicin,D0788
+D0597,Lusutrombopag,D0963
+D0597,Rolapitant,D1423
+D0597,Talazoparib,D1532
+D0597,Apalutamide,D0095
+D0597,Capmatinib,D0251
+D0597,Lasmiditan,D0897
+D0597,Ledipasvir,D0898
+D0597,Pitavastatin,D1301
+D0597,Pravastatin,D1329

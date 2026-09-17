@@ -1,0 +1,191 @@
+feature_name,hit_top1,hit_top2,hit_top3,hit_topk_total
+ABCB1,653,290,175,1118
+Pharmacodynamics,334,340,261,935
+Cytochrome P450,175,365,246,786
+Cytochrome P450 3A,277,226,246,749
+Cytochrome P450 1A2,349,149,122,620
+Cytochrome P450 2D6,112,203,187,502
+Vaccine/toxoid,192,16,128,336
+Cytochrome P450 3A4,121,112,74,307
+Cytochrome P450 2C9,61,130,106,297
+Probiotics,109,124,55,288
+UDP-glucuronosyltransferase 1A1,41,100,97,238
+BCRP,0,109,107,216
+Antidiabetic agents,183,0,0,183
+Cytochrome P450 2C19,0,64,115,179
+UDP-glucuronosyltransferase,26,27,26,79
+OATP1B1,14,29,35,78
+Antihypertensive agents,0,49,29,78
+44836,2,25,49,76
+morgan700,2,27,42,71
+Cytochrome P450 2C8,4,32,33,69
+Insulin-like growth factor 1 receptor,0,38,24,62
+Cytochrome P450 2B6,2,18,33,53
+morgan227,11,16,23,50
+morgan167,0,10,27,37
+OAT1,16,12,6,34
+morgan956,0,8,22,30
+Enzyme,11,11,7,29
+Cytochrome P450 2C,0,17,12,29
+Opioid receptor,0,6,21,27
+morgan843,1,6,19,26
+OATP1B3,0,10,16,26
+Catechol-O-methyl-transferase,13,10,0,23
+MATE1,0,21,1,22
+Monoamine oxidase,15,6,0,21
+Adrenergic receptor beta-2,11,7,3,21
+morgan101,3,8,10,21
+morgan403,0,0,20,20
+morgan279,0,6,13,19
+Cytochrome P450 3A3,0,0,19,19
+Muscarinic acetylcholine receptor M,13,3,2,18
+morgan839,0,8,10,18
+Angiotensin-converting enzyme,0,5,13,18
+Antithrombotic agents,9,6,2,17
+Angiotensin-converting enzyme || Prostaglandin G/H synthase 2,0,5,11,16
+morgan501,5,2,8,15
+morgan361,0,1,14,15
+morgan480,0,0,14,14
+ENT1,8,5,0,13
+Peptide methionine sulfoxide reductase,1,8,4,13
+Cytochrome P450 2E1,0,12,1,13
+morgan822,0,4,9,13
+OAT3,0,1,12,13
+Cholinergic agents,1,7,4,12
+morgan469,0,5,7,12
+Thiopurine methyltransferase,11,0,0,11
+Muscarinic acetylcholine receptor M || Acetylcholinesterase,2,7,2,11
+Uricosuric agents,0,11,0,11
+Prostaglandin G/H synthase 2,0,2,9,11
+morgan914,0,1,10,11
+Adenosine deaminase,1,9,0,10
+morgan820,0,7,3,10
+Xanthine dehydrogenase/oxidase,0,8,1,9
+Acetylcholinesterase || Muscarinic acetylcholine receptor M,0,1,8,9
+morgan546,0,5,3,8
+SLCO1B1 | SLCO1B3,0,2,6,8
+morgan837,0,2,6,8
+morgan389,0,2,5,7
+morgan22,0,1,6,7
+morgan286,0,0,7,7
+morgan997,0,0,6,6
+Opioid receptor || Acetylcholinesterase,3,1,1,5
+morgan284,0,2,3,5
+Guanylate cyclase soluble,0,1,4,5
+morgan608,0,1,4,5
+morgan214,0,0,5,5
+morgan221,0,0,5,5
+morgan399,0,0,5,5
+morgan511,0,0,5,5
+morgan85,0,0,5,5
+Angiotensin-converting enzyme || B2 bradykinin receptor,4,0,0,4
+Cytidine deaminase,0,4,0,4
+morgan147,0,0,4,4
+morgan305,0,0,4,4
+morgan31,0,0,4,4
+morgan517,0,0,4,4
+morgan640,0,0,4,4
+morgan800,0,0,4,4
+morgan840,0,0,4,4
+morgan985,0,0,4,4
+Inward rectifier potassium channel,0,3,0,3
+Dopamine receptor,0,2,1,3
+morgan419,0,2,1,3
+morgan15,0,1,2,3
+morgan243,0,1,2,3
+morgan500,0,1,2,3
+morgan709,0,1,2,3
+5-HT 4 receptor || Muscarinic acetylcholine receptor M,0,0,3,3
+Dopamine transporter || Dopamine receptor,0,0,3,3
+morgan165,0,0,3,3
+morgan236,0,0,3,3
+morgan242,0,0,3,3
+morgan470,0,0,3,3
+morgan754,0,0,3,3
+morgan991,0,0,3,3
+Alcohol dehydrogenase,2,0,0,2
+Voltage-dependent L-type calcium channel,2,0,0,2
+morgan881,1,0,1,2
+Hydroxyacid-oxoacid transhydrogenase,0,2,0,2
+MRP2,0,2,0,2
+Prokinetic agents,0,2,0,2
+Voltage-dependent L-type calcium channel subunit beta-1,0,2,0,2
+Muscarinic acetylcholine receptor M || Dopamine receptor,0,1,1,2
+morgan367,0,1,1,2
+morgan658,0,1,1,2
+morgan693,0,1,1,2
+morgan71,0,1,1,2
+morgan715,0,1,1,2
+morgan724,0,1,1,2
+morgan206,0,0,2,2
+morgan215,0,0,2,2
+morgan253,0,0,2,2
+morgan418,0,0,2,2
+morgan432,0,0,2,2
+morgan538,0,0,2,2
+morgan540,0,0,2,2
+morgan548,0,0,2,2
+morgan549,0,0,2,2
+morgan577,0,0,2,2
+morgan592,0,0,2,2
+morgan599,0,0,2,2
+morgan600,0,0,2,2
+morgan613,0,0,2,2
+morgan637,0,0,2,2
+morgan641,0,0,2,2
+morgan696,0,0,2,2
+morgan731,0,0,2,2
+morgan737,0,0,2,2
+morgan775,0,0,2,2
+morgan859,0,0,2,2
+morgan863,0,0,2,2
+Anti-hyperammonemia agents,1,0,0,1
+Synaptic vesicle amine transporter,1,0,0,1
+morgan579,1,0,0,1
+Antiepileptic agents,0,1,0,1
+Plasminogen || Tissue-type plasminogen activator,0,1,0,1
+morgan237,0,1,0,1
+morgan272,0,1,0,1
+morgan332,0,1,0,1
+morgan339,0,1,0,1
+morgan492,0,1,0,1
+morgan66,0,1,0,1
+morgan668,0,1,0,1
+Neuronal acetylcholine receptor,0,0,1,1
+Plasminogen,0,0,1,1
+UDP-glucuronosyltransferase 1A,0,0,1,1
+morgan1021,0,0,1,1
+morgan114,0,0,1,1
+morgan117,0,0,1,1
+morgan128,0,0,1,1
+morgan144,0,0,1,1
+morgan163,0,0,1,1
+morgan312,0,0,1,1
+morgan33,0,0,1,1
+morgan337,0,0,1,1
+morgan447,0,0,1,1
+morgan513,0,0,1,1
+morgan532,0,0,1,1
+morgan603,0,0,1,1
+morgan606,0,0,1,1
+morgan622,0,0,1,1
+morgan628,0,0,1,1
+morgan650,0,0,1,1
+morgan656,0,0,1,1
+morgan721,0,0,1,1
+morgan760,0,0,1,1
+morgan768,0,0,1,1
+morgan779,0,0,1,1
+morgan786,0,0,1,1
+morgan794,0,0,1,1
+morgan815,0,0,1,1
+morgan83,0,0,1,1
+morgan841,0,0,1,1
+morgan842,0,0,1,1
+morgan900,0,0,1,1
+morgan938,0,0,1,1
+morgan960,0,0,1,1
+morgan964,0,0,1,1
+morgan981,0,0,1,1
+morgan992,0,0,1,1
+morgan993,0,0,1,1

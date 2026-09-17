@@ -1,0 +1,122 @@
+Tofacitinib_D_ID,Drug_Victim,Victim_D_ID
+D1600,Bifidobacterium longum infantis,D1749
+D1600,Lactobacillus acidophilus,D1827
+D1600,Lyme disease vaccine (recombinant OspA),D1838
+D1600,Anthrax vaccine,D0089
+D1600,Bacillus calmette-guerin substrain tice live antigen,D1744
+D1600,Clostridium tetani toxoid antigen (formaldehyde inactivated),D0366
+D1600,Hepatitis A Vaccine,D0755
+D1600,Hepatitis B Vaccine (Recombinant),D0756
+D1600,Human papillomavirus type 11 L1 capsid protein antigen,D0767
+D1600,Influenza A virus A/California/7/2009 (H1N1)-like antigen (propiolactone inactivated),D0803
+D1600,Influenza A virus A/Vietnam/1194/2004 (H5N1) antigen (formaldehyde inactivated),D0804
+D1600,Measles virus vaccine live attenuated,D1839
+D1600,Meningococcal polysaccharide vaccine group C,D0999
+D1600,Mumps virus strain B level jeryl lynn live antigen,D1849
+D1600,Pfizer-BioNTech Covid-19 Vaccine,D1259
+D1600,Poliovirus type 1 antigen (formaldehyde inactivated),D1307
+D1600,Rotavirus vaccine,D1881
+D1600,Rubella virus vaccine,D1882
+D1600,"Smallpox (Vaccinia) Vaccine, Live",D1890
+D1600,Talimogene laherparepvec,D1897
+D1600,Typhoid vaccine (inactivated),D1914
+D1600,Typhoid vaccine (live),D1914
+D1600,Varicella Zoster Vaccine (Recombinant),D1920
+D1600,Vibrio cholerae CVD 103-HgR strain live antigen,D1693
+D1600,Yellow Fever Vaccine,D1922
+D1600,Amiodarone,D0066
+D1600,Amprenavir,D0081
+D1600,Atazanavir,D0116
+D1600,Boceprevir,D0192
+D1600,Ciprofloxacin,D0341
+D1600,Clarithromycin,D0349
+D1600,Conivaptan,D0386
+D1600,Dalfopristin,D0413
+D1600,Darunavir,D0426
+D1600,Deferasirox,D0432
+D1600,Delavirdine,D0439
+D1600,Diltiazem,D0497
+D1600,Dronedarone,D0534
+D1600,Erythromycin,D0597
+D1600,Esomeprazole,D0603
+D1600,Fluconazole,D0667
+D1600,Fluvoxamine,D0687
+D1600,Fosamprenavir,D0692
+D1600,Fosaprepitant,D0693
+D1600,Indinavir,D0799
+D1600,Isavuconazonium,D0852
+D1600,Ketoconazole,D0880
+D1600,Lansoprazole,D0892
+D1600,Lonafarnib,D0946
+D1600,Miconazole,D1058
+D1600,Mifepristone,D1063
+D1600,Nefazodone,D1117
+D1600,Nelfinavir,D1119
+D1600,Omeprazole,D1179
+D1600,Posaconazole,D1315
+D1600,Ritonavir,D1415
+D1600,Saquinavir,D1444
+D1600,Telaprevir,D1541
+D1600,Telithromycin,D1544
+D1600,Abametapir (topical),D0002
+D1600,Ceritinib,D0302
+D1600,Berotralstat,D0171
+D1600,Cobicistat,D0375
+D1600,Echinacea,D0545
+D1600,Fostamatinib,D0699
+D1600,Fosnetupitant,D0696
+D1600,Idelalisib,D0789
+D1600,Lefamulin,D0899
+D1600,Larotrectinib,D0896
+D1600,Netupitant,D1127
+D1600,Letermovir,D0906
+D1600,Osilodrostat,D1189
+D1600,Stiripentol,D1505
+D1600,Troleandomycin,D1653
+D1600,Tucatinib,D1660
+D1600,Voxelotor,D1709
+D1600,Verapamil,D1690
+D1600,Voriconazole,D1706
+D1600,Aminoglutethimide,D0061
+D1600,Amobarbital,D0071
+D1600,Armodafinil,D0106
+D1600,Bosentan,D0194
+D1600,Butabarbital,D0224
+D1600,Butalbital,D0225
+D1600,Carbamazepine,D0255
+D1600,Cenobamate,D0300
+D1600,Efavirenz,D0554
+D1600,Etravirine,D0628
+D1600,Felbamate,D0639
+D1600,Griseofulvin,D0741
+D1600,Methylphenobarbital,D1040
+D1600,Mitotane,D1078
+D1600,Modafinil,D1081
+D1600,Nafcillin,D1099
+D1600,Nevirapine,D1128
+D1600,Oxcarbazepine,D1198
+D1600,Fosphenytoin,D0697
+D1600,Pentobarbital,D1248
+D1600,Phenobarbital,D1265
+D1600,Phenylbutazone,D1274
+D1600,Phenytoin,D1283
+D1600,Primidone,D1340
+D1600,Rifampicin,D1400
+D1600,Rifapentine,D1401
+D1600,Rufinamide,D1433
+D1600,Secobarbital,D1453
+D1600,Somatotropin,D1494
+D1600,St. John's Wort,D1502
+D1600,Sulfinpyrazone,D1518
+D1600,Dabrafenib,D0406
+D1600,Apalutamide,D0095
+D1600,Enzalutamide,D0578
+D1600,Elagolix,D0555
+D1600,Lumacaftor,D0958
+D1600,Ivosidenib,D0872
+D1600,Pexidartinib,D1258
+D1600,Somapacitan,D1493
+D1600,Somatrem,D1495
+D1600,Telotristat ethyl,D1546
+D1600,Troglitazone,D1652
+D1600,Vemurafenib,D1687

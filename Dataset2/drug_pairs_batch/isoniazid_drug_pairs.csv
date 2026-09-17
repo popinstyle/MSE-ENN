@@ -1,0 +1,203 @@
+Isoniazid_D_ID,Drug_Victim,Victim_D_ID
+D0858,Acarbose,D0009
+D0858,Acetohexamide,D0013
+D0858,Chlorpropamide,D0325
+D0858,Glimepiride,D0727
+D0858,Insulin glargine,D0811
+D0858,"Insulin human (inhalation, rapid acting)",D0818
+D0858,Insulin human (isophane),D0818
+D0858,Insulin human (regular),D0818
+D0858,Insulin human (zinc extended),D0818
+D0858,Insulin human (zinc),D0818
+D0858,Insulin human,D0818
+D0858,Insulin lispro (protamine),D0820
+D0858,Insulin lispro,D0820
+D0858,Alogliptin,D0042
+D0858,Canagliflozin,D0245
+D0858,Dapagliflozin,D0418
+D0858,Empagliflozin,D0565
+D0858,Glyburide,D0730
+D0858,Insulin aspart (aspart protamine),D0808
+D0858,Insulin aspart (aspart),D0808
+D0858,Insulin degludec,D0809
+D0858,Insulin detemir,D0810
+D0858,Insulin glulisine,D0812
+D0858,Linagliptin,D0930
+D0858,Liraglutide,D0936
+D0858,Pioglitazone,D1294
+D0858,Pramlintide,D1326
+D0858,Saxagliptin,D1449
+D0858,Sitagliptin,D1477
+D0858,Tolbutamide,D1603
+D0858,Metformin,D1015
+D0858,Miglitol,D1064
+D0858,Nateglinide,D1112
+D0858,Repaglinide,D1392
+D0858,Tolazamide,D1601
+D0858,Troglitazone,D1652
+D0858,Dulaglutide,D1779
+D0858,Ertugliflozin,D1782
+D0858,Exenatide,D1784
+D0858,Semaglutide,D1887
+D0858,Typhoid vaccine (live),D1914
+D0858,Vibrio cholerae CVD 103-HgR strain live antigen (live),D1693
+D0858,Alfentanil,D0035
+D0858,Alprazolam,D0045
+D0858,Anagrelide,D0084
+D0858,Bosentan,D0194
+D0858,Buprenorphine,D0219
+D0858,Carbamazepine,D0255
+D0858,Celecoxib,D0298
+D0858,Cevimeline,D0308
+D0858,Chlordiazepoxide,D0317
+D0858,Chlorzoxazone,D0327
+D0858,Citalopram,D0345
+D0858,Clobazam,D0356
+D0858,Clorazepic acid,D0365
+D0858,Darifenacin,D0424
+D0858,Diazepam,D0473
+D0858,Dicoumarol,D0481
+D0858,Dofetilide,D0513
+D0858,Donepezil,D0516
+D0858,Duloxetine,D0539
+D0858,Eletriptan,D0557
+D0858,Ergotamine,D0593
+D0858,Erlotinib,D0595
+D0858,Ethotoin,D0621
+D0858,Fentanyl,D0646
+D0858,Flurazepam,D0679
+D0858,Gefitinib,D0713
+D0858,Irinotecan (liposomal),D0846
+D0858,Irinotecan,D0846
+D0858,Acalabrutinib,D0008
+D0858,Alosetron,D0043
+D0858,Aminophylline,D0064
+D0858,Anisindione,D0087
+D0858,Aripiprazole,D0105
+D0858,Armodafinil,D0106
+D0858,Atazanavir,D0116
+D0858,Avapritinib,D0129
+D0858,Bosutinib,D0195
+D0858,Brigatinib,D0204
+D0858,Asenapine,D0112
+D0858,Budesonide,D0216
+D0858,Cariprazine,D0262
+D0858,Clonazepam,D0362
+D0858,Ceritinib,D0302
+D0858,Cobimetinib,D0376
+D0858,Cilostazol,D0336
+D0858,Budesonide (nasal),D0216
+D0858,Doravirine,D0518
+D0858,Dolutegravir,D0515
+D0858,Dutasteride,D0542
+D0858,Dronedarone,D0534
+D0858,Eliglustat,D0559
+D0858,Entrectinib,D0577
+D0858,Duvelisib,D0543
+D0858,Escitalopram,D0599
+D0858,Everolimus,D0629
+D0858,Estazolam,D0604
+D0858,Fedratinib,D0638
+D0858,Gilteritinib,D0720
+D0858,Flibanserin,D0665
+D0858,Fosphenytoin,D0697
+D0858,Ergometrine,D0592
+D0858,Guanfacine,D0745
+D0858,Glasdegib,D0725
+D0858,Grazoprevir,D0739
+D0858,Halofantrine,D0749
+D0858,Ibrutinib,D0785
+D0858,Larotrectinib,D0896
+D0858,Ivabradine,D0868
+D0858,Fesoterodine,D0655
+D0858,Lefamulin,D0899
+D0858,Lemborexant,D0901
+D0858,Lopinavir,D0948
+D0858,Lorlatinib,D0953
+D0858,Ivacaftor,D0869
+D0858,Lesinurad,D0905
+D0858,Levacetylmethadol,D0909
+D0858,Lomitapide,D0944
+D0858,Levobupivacaine,D0916
+D0858,Lonafarnib,D0946
+D0858,Lurasidone,D0961
+D0858,Lumateperone,D0959
+D0858,Lurbinectedin,D0962
+D0858,Macitentan,D0966
+D0858,Maraviroc,D0980
+D0858,Midostaurin,D1062
+D0858,Lapatinib,D0894
+D0858,Osilodrostat,D1189
+D0858,Olaparib,D1167
+D0858,Ospemifene,D1191
+D0858,Naloxegol,D1104
+D0858,Mirabegron,D1074
+D0858,Palbociclib,D1214
+D0858,Oxtriphylline,D1201
+D0858,Osimertinib,D1190
+D0858,Panobinostat,D1221
+D0858,Pemigatinib,D1242
+D0858,Phenobarbital,D1265
+D0858,Pimavanserin,D1290
+D0858,Pimozide,D1292
+D0858,Pralsetinib,D1324
+D0858,Pirfenidone,D1299
+D0858,Quazepam,D1367
+D0858,Ramelteon,D1378
+D0858,Rasagiline,D1385
+D0858,Retapamulin (topical),D1394
+D0858,Ribociclib,D1398
+D0858,Rilpivirine,D1404
+D0858,Ripretinib,D1409
+D0858,Selumetinib,D1460
+D0858,Ruxolitinib,D1434
+D0858,Roflumilast,D1422
+D0858,Silodosin,D1466
+D0858,Selpercatinib,D1459
+D0858,Solifenacin,D1491
+D0858,Sonidegib,D1496
+D0858,Suvorexant,D1524
+D0858,Tasimelteon,D1536
+D0858,Tazemetostat,D1538
+D0858,Tolterodine,D1607
+D0858,Ubrogepant,D1663
+D0858,Zanubrutinib,D1718
+D0858,Venetoclax,D1688
+D0858,Ulipristal,D1664
+D0858,Mephenytoin,D1003
+D0858,Methadone,D1017
+D0858,Methylergometrine,D1037
+D0858,Methysergide,D1043
+D0858,Mifepristone,D1063
+D0858,Modafinil,D1081
+D0858,Montelukast,D1087
+D0858,Nitisinone,D1143
+D0858,Oxycodone,D1203
+D0858,Phenytoin,D1283
+D0858,Pimecrolimus (topical),D1291
+D0858,Ropinirole,D1427
+D0858,Ropivacaine,D1428
+D0858,Sildenafil,D1465
+D0858,Tadalafil,D1527
+D0858,Theophylline,D1570
+D0858,Tizanidine,D1596
+D0858,Toremifene,D1612
+D0858,Triazolam,D1632
+D0858,Vardenafil,D1682
+D0858,Venlafaxine,D1689
+D0858,Warfarin,D1711
+D0858,Ziprasidone,D1726
+D0858,Acetaminophen,D0011
+D0858,Halazepam,D0748
+D0858,Calcifediol,D0233
+D0858,Calcitriol,D0234
+D0858,Cholecalciferol,D0328
+D0858,Cyclosporine,D0402
+D0858,Ergocalciferol,D0591
+D0858,Dihydrotachysterol,D0495
+D0858,Doxercalciferol,D0527
+D0858,Ketoconazole,D0880
+D0858,Itraconazole,D0867
+D0858,Paricalcitol,D1226
+D0858,Indinavir,D0799
+D0858,Abacavir,D0001

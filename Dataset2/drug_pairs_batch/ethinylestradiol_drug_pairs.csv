@@ -1,0 +1,189 @@
+Ethinylestradiol_D_ID,Drug_Victim,Victim_D_ID
+D0619,Acarbose,D0009
+D0619,Acetohexamide,D0013
+D0619,Chlorpropamide,D0325
+D0619,Albiglutide,D0029
+D0619,Alogliptin,D0042
+D0619,Canagliflozin,D0245
+D0619,Dapagliflozin,D0418
+D0619,Empagliflozin,D0565
+D0619,Glipizide,D0728
+D0619,Glyburide,D0730
+D0619,Insulin aspart (aspart protamine),D0808
+D0619,Insulin aspart (aspart),D0808
+D0619,Insulin degludec,D0809
+D0619,Insulin detemir,D0810
+D0619,Insulin glulisine,D0812
+D0619,Linagliptin,D0930
+D0619,Liraglutide,D0936
+D0619,Lixisenatide,D0941
+D0619,Pramlintide,D1326
+D0619,Saxagliptin,D1449
+D0619,Sitagliptin,D1477
+D0619,Tolbutamide,D1603
+D0619,Glimepiride,D0727
+D0619,Insulin glargine,D0811
+D0619,"Insulin human (inhalation, rapid acting)",D0818
+D0619,Insulin human (isophane),D0818
+D0619,Insulin human (regular),D0818
+D0619,Insulin human (zinc extended),D0818
+D0619,Insulin human (zinc),D0818
+D0619,Insulin human,D0818
+D0619,Insulin lispro (protamine),D0820
+D0619,Insulin lispro,D0820
+D0619,Metformin,D1015
+D0619,Miglitol,D1064
+D0619,Nateglinide,D1112
+D0619,Repaglinide,D1392
+D0619,Rosiglitazone,D1429
+D0619,Tolazamide,D1601
+D0619,Dulaglutide,D1779
+D0619,Ertugliflozin,D1782
+D0619,Exenatide,D1784
+D0619,Semaglutide,D1887
+D0619,Dicoumarol,D0481
+D0619,Anisindione,D0087
+D0619,Warfarin,D1711
+D0619,Romidepsin,D1424
+D0619,Saw palmetto,D1885
+D0619,Clotrimazole,D0367
+D0619,Conivaptan,D0386
+D0619,Delavirdine,D0439
+D0619,Diltiazem,D0497
+D0619,Erythromycin,D0597
+D0619,Abametapir (topical),D0002
+D0619,Atazanavir,D0116
+D0619,Atorvastatin,D0120
+D0619,Dasatinib,D0428
+D0619,Berotralstat,D0171
+D0619,Clarithromycin,D0349
+D0619,Dronedarone,D0534
+D0619,Duvelisib,D0543
+D0619,Echinacea,D0545
+D0619,Enasidenib,D0568
+D0619,Eliglustat,D0559
+D0619,Isavuconazonium,D0852
+D0619,Fostamatinib,D0699
+D0619,Fedratinib,D0638
+D0619,Itraconazole,D0867
+D0619,Fosamprenavir,D0692
+D0619,Ivacaftor,D0869
+D0619,Ketoconazole,D0880
+D0619,Lapatinib,D0894
+D0619,Lefamulin,D0899
+D0619,Larotrectinib,D0896
+D0619,Lurbinectedin,D0962
+D0619,Lonafarnib,D0946
+D0619,Lomitapide,D0944
+D0619,Melatonin,D0994
+D0619,Metreleptin,D1050
+D0619,Nefazodone,D1117
+D0619,Pirfenidone,D1299
+D0619,Posaconazole,D1315
+D0619,Rucaparib,D1432
+D0619,Selegiline,D1455
+D0619,Selpercatinib,D1459
+D0619,Stiripentol,D1505
+D0619,Tucatinib,D1660
+D0619,Voxelotor,D1709
+D0619,Fluconazole,D0667
+D0619,Fluvoxamine,D0687
+D0619,Imatinib,D0793
+D0619,Indinavir,D0799
+D0619,Telithromycin,D1544
+D0619,Tizanidine,D1596
+D0619,Valdecoxib,D1674
+D0619,Voriconazole,D1706
+D0619,Aminoglutethimide,D0061
+D0619,Amprenavir,D0081
+D0619,Aprepitant,D0100
+D0619,Bexarotene,D0178
+D0619,Bosentan,D0194
+D0619,Butabarbital,D0224
+D0619,Butalbital,D0225
+D0619,Carbamazepine,D0255
+D0619,Clobazam,D0356
+D0619,Efavirenz,D0554
+D0619,Deferasirox,D0432
+D0619,Encorafenib,D0569
+D0619,Eslicarbazepine,D0601
+D0619,Fosphenytoin,D0697
+D0619,Cenobamate,D0300
+D0619,Lemborexant,D0901
+D0619,Glycerol phenylbutyrate,D0732
+D0619,Brigatinib,D0204
+D0619,Ivosidenib,D0872
+D0619,Pexidartinib,D1258
+D0619,Perampanel,D1253
+D0619,Pitolisant,D1302
+D0619,Artemether,D0108
+D0619,Lumacaftor,D0958
+D0619,Rifapentine,D1401
+D0619,Somapacitan,D1493
+D0619,Rufinamide,D1433
+D0619,Amobarbital,D0071
+D0619,St. John's Wort,D1502
+D0619,Boceprevir,D0192
+D0619,Pioglitazone,D1294
+D0619,Somatrem,D1495
+D0619,Tazemetostat,D1538
+D0619,Sulfinpyrazone,D1518
+D0619,Telaprevir,D1541
+D0619,Rifampicin,D1400
+D0619,Vemurafenib,D1687
+D0619,Griseofulvin,D0741
+D0619,Methylphenobarbital,D1040
+D0619,Mitotane,D1078
+D0619,Modafinil,D1081
+D0619,Nafcillin,D1099
+D0619,Nelfinavir,D1119
+D0619,Nevirapine,D1128
+D0619,Oxcarbazepine,D1198
+D0619,Brivaracetam,D0208
+D0619,Fosaprepitant,D0693
+D0619,Lorlatinib,D0953
+D0619,Armodafinil,D0106
+D0619,Lesinurad,D0905
+D0619,Dabrafenib,D0406
+D0619,Olaparib,D1167
+D0619,Telotristat ethyl,D1546
+D0619,Phenobarbital,D1265
+D0619,Felbamate,D0639
+D0619,Pentobarbital,D1248
+D0619,Phenytoin,D1283
+D0619,Primidone,D1340
+D0619,Rifabutin,D1399
+D0619,Secobarbital,D1453
+D0619,Somatotropin,D1494
+D0619,Topiramate,D1609
+D0619,Troglitazone,D1652
+D0619,Paritaprevir,D1227
+D0619,Zidovudine,D1720
+D0619,Acetaminophen,D0011
+D0619,Lorazepam,D0951
+D0619,Oxazepam,D1197
+D0619,Temazepam,D1547
+D0619,Valproic acid,D1677
+D0619,Cyclosporine,D0402
+D0619,Temsirolimus,D1549
+D0619,Sirolimus,D1476
+D0619,Tacrolimus,D1526
+D0619,Adalimumab,D0023
+D0619,Alefacept,D0032
+D0619,Anakinra,D0085
+D0619,Etanercept,D0614
+D0619,Canakinumab,D0246
+D0619,Certolizumab pegol,D0304
+D0619,Emapalumab,D0564
+D0619,Golimumab,D0736
+D0619,Guselkumab,D0747
+D0619,Rilonacept,D1403
+D0619,Sarilumab,D1447
+D0619,Secukinumab,D1454
+D0619,Siltuximab,D1467
+D0619,Satralizumab,D1448
+D0619,Ixekizumab,D0875
+D0619,Ustekinumab,D1671
+D0619,Tocilizumab,D1599
+D0619,Infliximab,D0802
+D0619,Chlorpromazine,D0324
